@@ -92,6 +92,15 @@
 -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massakti&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" alt="massakti" /></p>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massakti&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="massakti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massakti&show_icons=true&locale=en&theme=catppuccin_mocha&count_private=true" alt="massakti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massakti&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="massakti" /></p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massakti&show_icons=true&theme=tokyonight&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massakti&show_icons=true&theme=tokyonight&count_private=true)
+-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=massakti&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
